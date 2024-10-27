@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "writer": "Rafsan Kabir",
+        "author_img":"https://i.ibb.co.com/wJzMM0V/head-shot-portrait-close-smiling-260nw-1714666150.webp",
+        "reading_time": 5,
+        "cover_image": "https://i.ibb.co.com/fnMVdxR/blogs01.jpg",
+        "posted_time": "2024-10-20 14:30",
+        "title": "How to Start a Successful Blog in 2024",
+        "hashtags": ["#blogging", "#startup", "#contentCreation"]
+    },
+    {
+        "id": 2,
+        "writer": "Sadia Noor",
+        "author_img":"https://i.ibb.co.com/x6bVrxJ/template-3.jpg",
+        "reading_time": 6,
+        "cover_image": "https://i.ibb.co.com/ngPPvFZ/blogs02.jpg",
+        "posted_time": "2024-10-21 10:00",
+        "title": "Top 10 Tips for Better Time Management",
+        "hashtags": ["#timeManagement", "#productivity", "#workLifeBalance"]
+    },
+    {
+        "id": 3,
+        "writer": "Tanvir Ahmed",
+        "author_img":"https://i.ibb.co.com/tcXQ8xr/danny-2.webp",
+        "reading_time": 8,
+        "cover_image": "https://i.ibb.co.com/sWYxR6m/blogs3.jpg",
+        "posted_time": "2024-10-19 16:45",
+        "title": "The Future of Artificial Intelligence in Healthcare",
+        "hashtags": ["#AI", "#healthcare", "#futureTech"]
+    },
+    {
+        "id": 4,
+        "writer": "Mariam Khan",
+        "author_img":"https://i.ibb.co.com/bLqkBJZ/profile-picture-maker-after.webp",
+        "reading_time": 4,
+        "cover_image": "https://i.ibb.co.com/x85jHHS/blogs4.jpg",
+        "posted_time": "2024-10-22 09:15",
+        "title": "5 Simple Steps to Improve Your Mental Health",
+        "hashtags": ["#mentalHealth", "#selfCare", "#wellbeing"]
+    },
+    {
+        "id": 5,
+        "writer": "Ahsan Ali",
+        "author_img":"https://i.ibb.co.com/4mWWZwT/writer-One.jpg",
+        "reading_time": 7,
+        "cover_image": "https://i.ibb.co.com/zbjdm8m/blgos5.jpg",
+        "posted_time": "2024-10-23 11:00",
+        "title": "Why Learning a New Language Boosts Your Brain",
+        "hashtags": ["#languageLearning", "#brainHealth", "#personalGrowth"]
+    },
+    {
+        "id": 6,
+        "writer": "Farhana Jahan",
+        "author_img":"https://i.ibb.co.com/wLN9rbh/writer3.jpg",
+        "reading_time": 6 ,
+        "cover_image": "https://i.ibb.co.com/CmmjVfJ/blogs06.jpg",
+        "posted_time": "2024-10-20 13:20",
+        "title": "10 Best Apps for Freelancers in 2024",
+        "hashtags": ["#freelancing", "#apps", "#digitalTools"]
+    },
+    {
+        "id": 7,
+        "writer": "Rakib Hossain",
+        "author_img":"https://i.ibb.co.com/8rmtqGP/writer2.jpg",
+        "reading_time": 9 ,
+        "cover_image": "https://i.ibb.co.com/KDfghxK/blogs07.jpg",
+        "posted_time": "2024-10-21 18:30",
+        "title": "The Ultimate Guide to Digital Marketing Strategies",
+        "hashtags": ["#digitalMarketing", "#onlineBusiness", "#marketingTips"]
+    }
+]
